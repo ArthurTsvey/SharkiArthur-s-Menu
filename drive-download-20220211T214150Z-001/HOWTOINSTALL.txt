@@ -1,0 +1,5 @@
+Go to "chrome://extensions/", and on the top right make sure "Developer mode" is turned on 
+
+Drag the "iReady Overload" folder onto the page and then after opening the iReady website you will see the panel.
+
+If something isn't working right, check if there's an update. If not, create an new issue on the github: https://github.com/cupiditys/iReady-Overload
